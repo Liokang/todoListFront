@@ -51,7 +51,7 @@ function Index() {
       <div className="w-full max-w-xl bg-white rounded-2xl shadow-lg p-8">
         {/* Title + Date */}
         <div className="text-center mb-6">
-          <h1 className="text-3xl font-extrabold text-blue-700">✅ ATUL RAWAT's  Todo List</h1>
+          <h1 className="text-3xl font-extrabold text-blue-700">✅ ATUL RAWAT's Task Management</h1>
           <p className="text-gray-500 mt-1">{today}</p>
         </div>
 
